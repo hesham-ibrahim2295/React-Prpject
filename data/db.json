@@ -4,13 +4,13 @@
       "title": "My new website",
       "body": "lorem ipsum...",
       "author": "Heshoo",
-      "id": 1
+      "id": "1"
     },
     {
       "title": "Web dev top tips",
       "body": "lorem ipsum...",
       "author": "Nora",
-      "id": 2
+      "id": "2"
     }
   ]
 }
